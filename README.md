@@ -240,13 +240,5 @@ npm run dev
 * Spring Boot Email Service
 * Real-World Problem Solving
 
-## Author
-
-**Thejaswi Nayak**
-
-Information Science & Engineering Student
-*"Building secure, scalable, and impactful software solutions."*
-
 ## License
-
 This project is developed for educational and learning purposes.
