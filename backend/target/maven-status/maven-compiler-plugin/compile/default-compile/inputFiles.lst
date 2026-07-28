@@ -1,0 +1,15 @@
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\CollectSureApplication.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\config\CorsConfig.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\controller\ParcelController.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\controller\SecurityController.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\dto\LoginDTO.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\dto\ParcelTicketDTO.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\dto\VerifyOtpDTO.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\entity\Parcel.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\entity\SecurityGuard.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\exception\GlobalExceptionHandler.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\repository\ParcelRepository.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\repository\SecurityGuardRepository.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\service\EmailService.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\service\ParcelService.java
+C:\Users\THEJASWI NAYAK\Desktop\Web Dev\CollectSure\backend\src\main\java\com\collectsure\backend\service\SecurityService.java
